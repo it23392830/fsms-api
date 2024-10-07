@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class FsmsApiApplication {
+	//test
 
 	public static void main(String[] args) {
 		SpringApplication.run(FsmsApiApplication.class, args);
